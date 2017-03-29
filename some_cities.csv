@@ -1,0 +1,25 @@
+state,city,year,month,day,value1,value2
+MI,Detroit,2005,1,1,15,1.05
+MI,Lansing,2005,1,1,47,1.1
+IL,Chicago,2005,1,1,53,1.11
+IL,Springfield,2005,1,1,67,0.98
+CA,Sacremento,2005,1,1,89,0.9
+CA,San Francisco,2005,1,1,1,0.365
+CA,Los Angels,2005,1,1,19,1.99
+CA,San Diego,2005,1,1,31,
+PA,Pittsburgh,2005,1,1,55,0.67
+PA,Philadelphia,2005,1,1,4,0.55
+PA,Harrisburg,2005,1,1,13,0.39
+DC,Washington,2005,1,1,12,0.89
+MI,Detroit,2005,2,1,88,1.01
+MI,Lansing,2005,2,1,91,2.2
+IL,Chicago,2005,2,1,53,2.1
+IL,Springfield,2005,2,1,37,1.112
+CA,Sacremento,2005,2,1,60,1.1
+CA,San Francisco,2005,2,1,40,
+CA,Los Angels,2005,2,1,15,0.87
+CA,San Diego,2005,2,1,15,0.23
+PA,Pittsburgh,2005,2,1,0,1.2
+PA,Philadelphia,2005,2,1,5,1.7
+PA,Harrisburg,2005,2,1,49,1.6
+DC,Washington,2005,2,1,11,1.8
